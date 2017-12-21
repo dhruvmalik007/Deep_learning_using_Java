@@ -12,5 +12,5 @@ http://www.oracle.com/technetwork/articles/java/nbneural-317387.html
 ## Udemy course on Using Java On deep Learning
 :- https://www.udemy.com/getting-started-with-java-deep-learning/.
 
-## A Blog s 
+## A Blog For noobs to start On deep learning On Java
 https://blog.takipi.com/how-to-get-started-with-java-machine-learning/
